@@ -14,7 +14,7 @@ canonifyURLs = true
   # Sets the meta tag description
   description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "Garden of Water"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -86,11 +86,11 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "Welcome to Garden of Water"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "Hydroponics, Organic Soil, Testing different LEDs, conducting Gardening experiments is the content I'm providing. <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Under Construction"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -171,7 +171,7 @@ canonifyURLs = true
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  facebook         = "https://www.facebook.com/michelle.vega.733450"
   googleplus       = ""
   reddit           = "example"
   quora            = ""
@@ -181,9 +181,9 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  instagram        = "https://www.instagram.com/gardenofwater"
   tumblr           = ""
-  twitter          = "example"
+  twitter          = "https://twitter.com/GardenofWater"
   skype            = ""
   snapchat         = ""
   pinterest        = "example"

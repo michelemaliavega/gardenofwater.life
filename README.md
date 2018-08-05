@@ -139,7 +139,7 @@ canonifyURLs = true
     - Submit the sitemap (/sitemap.xml) for indexing
     - Wait
 
-3. Add your website to Bing 
+3. Add your website to Bing
     - Login to the [Bing Webmaster Console](https://www.bing.com/toolbox/webmaster/)
     - Add your site, details and verify
     - From the 3 option, we recommend adding the xml file to you website
