@@ -3,12 +3,12 @@ author = "Theme author"
 categories = ["Hugo"]
 tags = ["tutorial"]
 date = "2014-09-28"
-description = "Learn how to create a theme on Hugo"
+description = "Color spectrum comparison LED"
 featured = "Garden.jpg"
-featuredalt = "Pic 3"
+featuredalt = "Garden.jpg"
 featuredpath = "date"
 linktitle = ""
-title = "Creating a New Theme"
+title = "HLG Experiment"
 type = "post"
 
 +++
