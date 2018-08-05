@@ -1,9 +1,6 @@
-# Hugo Future Imperfect
+# Welcome to Garden of Water
 
-Future Imperfect is a responsive theme tailored for blogging. The name is of no
-coincidence, because it is a port of [HTML5 UP's theme](http://html5up.net/future-imperfect)
-by the same name. In addition to the original features, there are more features
-that have been added for you to utilize.
+I will be providing content covering Gardening, specifically Hydroponics. I will make many experiments comparing hydroponics vs ORganic OMRI soil.
 
 ![Hugo Future Imperfect Screenshot](https://raw.githubusercontent.com/jpescador/hugo-future-imperfect/master/images/screenshot.png)
 
