@@ -11,9 +11,7 @@ linktitle = ""
 title = "HLG Experiment"
 type = "post"
 
-```
-{{< img-post path="date" file="Garden.jpg" alt="Alt Text" type="left" >}}
-```
+<img src="https://themes.gohugo.io/theme/future-imperfect/img/2014/09/pic03.jpg" alt="">
 
 +++
 
