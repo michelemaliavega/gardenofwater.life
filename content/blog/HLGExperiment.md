@@ -2,7 +2,7 @@
 author = "Malia"
 categories = ["Hugo"]
 tags = ["tutorial"]
-date = "2018-08-005"
+date = "August 5th 2018"
 description = "Color spectrum comparison LED"
 featured = "Garden.jpg"
 featuredalt = "Garden.jpg"
