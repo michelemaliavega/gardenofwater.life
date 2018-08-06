@@ -1,8 +1,8 @@
 +++
-author = "Theme author"
+author = "Malia"
 categories = ["Hugo"]
 tags = ["tutorial"]
-date = "2014-09-28"
+date = "2018-08-005"
 description = "Color spectrum comparison LED"
 featured = "Garden.jpg"
 featuredalt = "Garden.jpg"
@@ -10,6 +10,8 @@ featuredpath = "date"
 linktitle = ""
 title = "HLG Experiment"
 type = "post"
+
+![Image of Garden Patio](images/garden.jpg)
 
 +++
 
