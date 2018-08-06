@@ -14,3 +14,5 @@ Site is under construction
 * 1
 * 2
 * 3
+
+{{< img-post path="date" file="garden.jpg" alt="Alt Text" type="left" >}}
