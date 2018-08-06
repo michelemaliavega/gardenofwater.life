@@ -171,7 +171,7 @@ canonifyURLs = true
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "https://www.facebook.com/michelle.vega.733450"
+  facebook         = "michelle.vega.733450"
   googleplus       = ""
   reddit           = "example"
   quora            = ""
@@ -181,9 +181,9 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "https://www.instagram.com/gardenofwater"
+  instagram        = "gardenofwater"
   tumblr           = ""
-  twitter          = "https://twitter.com/GardenofWater"
+  twitter          = "/GardenofWater"
   skype            = ""
   snapchat         = ""
   pinterest        = "example"
