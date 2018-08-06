@@ -11,7 +11,9 @@ linktitle = ""
 title = "HLG Experiment"
 type = "post"
 
-![Image of Garden Patio](images/garden.jpg)
+```
+{{< img-post path="date" file="Garden.jpg" alt="Alt Text" type="left" >}}
+```
 
 +++
 

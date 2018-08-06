@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "Contact Malia"
 type = "contact"
 netlify = false
 emailservice = "gardenofwater@gmail.com"
